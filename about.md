@@ -7,7 +7,7 @@ order: 1
 
 ![image-title-here](/assets/images/bio.jpg){:class="img-responsive"}
 
-My name is Jonathan Piper. I play the tuba, blow the jug, and work as a museum curator.
+My name is Jonathan Piper. I play the tuba, blow the jug, and do a bunch of other stuff.
 
 As a **performer**, I seek to explore the outer limits of my instrument, which I take to include my tuba and myself. This has included the development of extended performance techniques, the incorporation of electronics into my practice, and a compulsion to seek out sounds that are only possible when something fails. I perform regularly as a soloist and in several duo configurations, and have played in bands and larger ensembles.
 
@@ -25,4 +25,4 @@ As a **curator**, I strive to create [exhibitions](/exhibitions) that inspire th
 ---
 My dissertation, *[Locating Experiential Richness in Doom Metal](https://escholarship.org/uc/item/7bq7387s){:target="_blank"}*, provides an analysis of doom metal including history and musical characteristics, an examination of common thematic content, and a psychoanalytic investigation of the experience of a performance. A closely related paper was presented to the International Association for the Study of Popular Music, US Chapter, in 2014. Previous research into the effects of digital media on musical consumption was presented to IASPM-US and the Society for Ethnomusicology.
 
-I earned a BA in Musical Performance, studying with Tommy Johnson, at UCLA in 2005, and an MA and PhD in Critical Studies/Experimental Practices at UCSD in 2007 and 2013, respectively. I currently live in San Diego with my wife, daughter, and son. I work at the [NAMM Museum of Making Music](https://www.museumofmakingmusic.org){:target="_blank"}, where I design, curate, and implement exhibitions and manage an amazing and varied collection.
+I earned a BA in Musical Performance, studying with Tommy Johnson, at UCLA in 2005, and an MA and PhD in Critical Studies/Experimental Practices at UCSD in 2007 and 2013, respectively. I currently live in San Diego with my wife, daughter, and son.

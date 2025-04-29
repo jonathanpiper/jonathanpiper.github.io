@@ -19,7 +19,7 @@ Here’s some stuff I’m proud of. Check out the links above for more stuff.
 <br/>
 \-[Meghann Welsh](https://meghannwelsh.com/), vocals, accordion, oboe, saw, and electronics  \| Jonathan Piper, tuba and electronics
 <br/><br/>
-<center><video controls autoplay><source src="http://www.gobyland.space/go%20by%20land%207-1.mp4" type="video/mp4"></video></center>
+<center><iframe title="vimeo-player" src="https://player.vimeo.com/video/1073282838?h=0240039687" width="640" height="360" frameborder="0"    allowfullscreen></iframe></center>
 [go by land](http://gobyland.space), improvisation, 7/1/17
 <br/>
 \-[Michelle Lou](http://michellelou.com), bass and electronics \| Jonathan Piper, tuba and electronics
